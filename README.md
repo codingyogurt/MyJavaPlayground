@@ -4,7 +4,7 @@ Backup of my personal test ground. Mostly algorithms.
 #### My personal steps on solving programming problems.
 1. Write of the solutions you are thinking.
 2. Write elementary (even baby) steps process of the solution you are thinking. Best written in the IDE as a comment.
-3. Implement you code following the steps.
+3. Implement your code following the steps.
 
 I find this easier because sometimes my mind flies somewhere else and this solution makes it easier to go back to where I was disturbed. 
 
